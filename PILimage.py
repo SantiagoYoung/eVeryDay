@@ -1,6 +1,4 @@
-import Image
-import ImageDraw
-import ImageFont
+from PIL import Image, ImageDraw, ImageFont
 
 # first edit
 # image = Image.open('car.jpg')
@@ -33,7 +31,8 @@ if __name__ == '__main__':
 # function edition
 from PIL import Image,ImageFont,ImageDraw
 
-def draw_badge_number(filePath,*,badgeNumber=10,fill=(255,0,0),x=0.85,y=0.1,fontPath=None,fontOption=None):
+def draw_badge_number(filePath,badgeNumber=10,fill=(255,0,0),x=0.85,y=0.1,fontPath=None,fontOption=None):
+
     try:
         image = Image.open(filePath)
         pic = ImageDraw.Draw(image)
