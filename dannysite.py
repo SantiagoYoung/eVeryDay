@@ -52,11 +52,12 @@ DATABASES = {
 每个博客都要包含标题、作者、分类、发布时间的显示（年-月-日 时:分）及节选的正文内容（前 100 个字）。点击单独的博客可以进入其详情页；
 需要有一个“详情”页来呈现完整的博客，包括标题、作者、分类、发布的时间、标签和完整的正文内容，并附加评论显示和发布功能。
 '''
+# python manage.py startapp blog
 
 from django.db import models
 
 class Blog(models.Model):
-    title = models.CharField('title', max_length=12,)
+    title = models.CharField('title', max_length=12)
 
 
 
