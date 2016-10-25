@@ -55,11 +55,70 @@ DATABASES = {
 # python manage.py startapp blog
 
 from django.db import models
+from django.contrib.auth.models import User
 
 class Blog(models.Model):
     title = models.CharField('title', max_length=12)
+    author = models.CharField('author', max_length=12)
+    # author = models.OneToOneField(User)
+    content = models.TextField()
+    pub_date = models.DateTimeField('publish date',auto_now_add=True)
+    edit_date = models.DateTimeField('edit date', auto_now=True)
+
+    category =  models.ForeignKey('Category', related_name='category')
+    tag = models.ManyToManyField(Tag, related_name='blog')
+
+    class Meta:
+        ordering = ['-pub_date']
+        verbose_name = 'blog'
+
+    def __str__(self):
+        return self.title
 
 
+class Tag(models.Model):
+    # blog = models.ManyToManyField(Blog, related_name='blog')
+    tag_name = models.CharField(max_length=12, verbose_name='tag name')
+
+    class Meta:
+        verbose_name = 'tag'
+        verbose_name_plural = 'tags'
+
+    def __str__(self):
+        return self.tag_name
+
+class Category(models.Model):
+    category_name = models.CharField('category name', max_length=12)
+    create_date = models.DateTimeField(auto_now_add=True)
+    class Meta:
+        ordering = ['-create_date']
+
+    def __str__(self):
+        return self.category_name
+
+class Comment(models.Model):
+    blog = models.ForeignKey(Blog, related_name='blog')
+
+    user = models.ForeignKey(User)
+    email = models.EmailField()
+    content = models.TextField()
+
+    date = models.DateTimeField(auto_now_add=True)
+    comment = models.ForeignKey('self')
+
+
+
+# python manage.py makemigrations blog
+# pyhton manage.py migrate blog
+
+
+
+'''
+添加 blog/admin
+'''
+from django.contrib import admin
+# from blog.models import Category, Tag, Blog
+admin.site.register([Category, Tag, Blog])
 
 
 
