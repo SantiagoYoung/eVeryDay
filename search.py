@@ -15,5 +15,5 @@ def query(filepath):
 	for word in result:
 		words = word + ' '
 
-	
+	return words
 

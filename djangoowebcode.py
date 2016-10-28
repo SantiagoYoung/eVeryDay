@@ -33,9 +33,7 @@ class Entry(models.Model):
 
 one_entry = Entry.objects.get(pk=1)
 Entry.objects.all()[:5]
- 	Entry.objects.order_by('headline')[0]
- == Entry.objects.order_by('headline')[0:1].get()
-
+Entry.objects.order_by('headline')[0] == Entry.objects.order_by('headline')[0:1].get()
 Entry.objects.filter(pub_date__lt='2006-01-01')
 
 Entry.objects.get(headline__exact='Man bites dog')
