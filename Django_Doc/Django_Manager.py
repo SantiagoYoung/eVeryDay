@@ -94,15 +94,37 @@ class BBook(models.Model):
 # 在这个简单的例子中，Book.objects.all()将返回数据库中所有的图书。
 # 而 Book.dahl_objects.all() 只返回作者是 Roald Dahl 的图书。
 
+
 # Of course, because get_queryset() returns a QuerySet object,
 # you can use filter(), exclude() and all the other QuerySet methods on it.
 
 
+class AuthorManager(models.Manager):
+    def get_queryset(self):
+        return super(AuthorManager, self).get_queryset().filter(role='A')
+
+class EditorManager(models.Manager):
+    def get_queryset(self):
+        return super(EditorManager, self).get_queryset().filter(role='E')
+
+class Person(models.Model):
+    first_name = models.CharField(max_length=20)
+    last_name  = models.CharField(max_length=20)
+    role = models.CharField(max_length=1,choices=(('A',_('Author')),('E', _('Editor'))))
+    people = models.Manager()
+    authors = AuthorManager()
+    editors = EditorManager()
+
+
+#
+# 默认管理器¶
+# 如果你使用自定义的管理器对象，要注意Django 遇到的第一个管理器（按照在模型中出现的顺序）拥有特殊的地位。
+# Django 将类中定义的第一个管理器解释为默认的管理器，并且Django 中有几部分（包括dumpdata）将只使用该管理器。
+# 因此，选择默认的管理器要小心谨慎仔细考量，这样才能避免因重写 get_queryset() 而可能产生的无法获取到预期数据的问题。
 
 
 
-
-
+# 自定义管理器和模型继承¶
 
 
 
