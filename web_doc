@@ -1,0 +1,64 @@
+
+
+轮播图： 后台可以添加删除，默认展示 3张 按照什么 order 展示？
+轮播图展示什么？ Portfolio
+
+Structure :
+          用来 填充 dock
+          以及各个部分的 主题和描述
+
+
+Services: 可增加删除服务的项目，然后进行展示在首页
+
+            需要展示 项目的 名字，简短的介绍，图片
+
+Portfolio:
+        添加外键------不同的service
+
+About Us:
+        展示文章， 简单的介绍。
+        Article      History
+        一些成就， 问题和回答。
+        Facts        Question $ Answers
+
+What Our Client Say:
+        简短的介绍。
+
+
+Contact us：
+    location, message, phone
+
+Send us a message
+    mail ? or Model？
+
+
+后台使用xadmin。
+后台添加富文本编辑器？
+
+
+
+位置 添加啊地图。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
