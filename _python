@@ -1,0 +1,140 @@
+
+
+1.django 的设计模式
+
+    MVC-即模型-视图-控制器设计模式
+    Django的架构被设计成Model-Template-View
+
+
+2.简述下list实例方法里 pop和remove和del的区别
+    remove 是删除首个符合条件的元素,并不是删除特定的索引
+    对于 del 来说，它是根据索引（元素所在位置）来删除的
+    pop方法 remove and return item at index.
+
+3.简述下http请求发起到结束的过程
+    域名解析 ( DNS 将域名解析成对应的IP地址,然后根据IP找到对应的服务器.)
+    --> 发起TCP的3次握手 ( SYN -- SYN/ACK -- ACK) --------建立TCP/IP连接后客户端与服务器才正式开始传送数据
+    --> 建立TCP连接后发起http请求 (Hypertext Transfer Protocol  无状态连接)
+    --> 服务器响应http请求，浏览器得到html代码
+    --> 浏览器解析html代码，并请求html代码中的资源（如js、css、图片等）
+    --> 浏览器对页面进行渲染呈现给用户
+
+4.如何查看一个对象的所有实例属性？
+    dir()  or  __dict__
+
+5.请简述下tuple set dict list的区别 以及各自的应用场景
+    list: 链表, 有序的项目, 通过索引进行查找, 使用方括号"[]";
+    tuple:元组, 元组将多样的对象集合到一起, 不能修改, 通过索引进行查找, 使用括号"()";
+    dict:字典, 字典是一组键(key)和值(value)的组合, 通过键(key)进行查找, 没有顺序, 使用大括号"{}";
+    set:集合,无序, 元素只出现一次, 自动去重, 使用"set([])";
+        应用场景:
+            list, 简单的数据集合, 可以使用索引;
+            tuple, 把一些数据当做一个整体去使用, 不能修改;
+            dict, 使用键值和值进行关联的数据;
+            set, 数据只出现一次, 只关心数据是否出现, 不关心其位置;
+6.如何获得一个有序字典
+        from collections import OrderedDict
+
+7.如何通过 Python调用 CMD命令  并获得输出作为返回值
+        os.system('cat /proc/cpuinfo')
+        output = os.popen('cat /proc/cpuinfo')
+        print output.read()
+        import subprocessing
+        res = subprocessiong.check_output('command')
+        res[0]
+
+
+8.xrange和 range 的区别
+        1、range()返回整个list。
+        2、xrange()返回的是一个xrange object，且这个对象是个iterable。
+
+9. 若 line='asdf fjdk; afed, fjek,asdf, foo' ,
+如何将多个不同的分隔符分割获得['asdf', 'fjdk', 'afed', 'fjek', 'asdf', 'foo']的序列,附上代码
+
+        line='asdf fjdk; afed, fjek,asdf, foo'
+        re.split('[;,\s]\s*',line)
+
+
+10. 在re 模块中,有一组可选标志修饰符来控制匹配的模式,请简述re.M,re.S,re.U这三者的含义
+
+        re.I 不区分大小写
+        re.L
+        re.M 多行匹配
+        re.S . 能够匹配所有字符
+        re.U, 根据Unicode字符集解析字符。
+
+11. 若有 a='str1',b='str2',c=a+b,是否有比+更加高效的方法
+        ''.join([a,b])
+
+12. 若有lst = [], 1>lst=[i for i in xrange(1000)],
+ 2> for i in xrange(1000): lst.append(i), 何者的效率更高
+        列表解析式更高效.
+
+13. 在字符串前缀中, r,b,u.f 分别有什么含义, 如 u'string'
+        以r或R开头的python中的字符串表示（非转义的）原始字符串
+        （2）以u或U开头的字符串表示unicode字符串
+        以字节形式表示的字符串则必须加上b前缀：b'xxx'。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

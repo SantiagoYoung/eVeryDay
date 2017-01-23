@@ -2,63 +2,171 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94ba6a2c-1968-4ba8-982a-7f6ce3857f0f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cookbook/Delete_Repeat.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cookbook/Deque_EX.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cookbook/Headq_EX.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cookbook/Multidict_EX.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cookbook/Ordering_dict_list.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cookbook/Slice_EX.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CorePythonProgram/GUI_EX1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CorePythonProgram/Lock_mtsleepF.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CorePythonProgram/MYSQL_pyEX.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CorePythonProgram/MyHTTPd.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CorePythonProgram/MyThread.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CorePythonProgram/SQLAlchemy_pyEX2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CorePythonProgram/SQLAlchemy_shuffle.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CorePythonProgram/Thread_mtsleepA.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CorePythonProgram/Thread_mtsleepB.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CorePythonProgram/Threading_Production.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CorePythonProgram/Threading_candy.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CorePythonProgram/Threading_mtfacfib.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CorePythonProgram/Threading_mtsleepC.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CorePythonProgram/Threading_mtsleepD.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CorePythonProgram/Threding_mtsleepE.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CorePythonProgram/URLopen_auth.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CorePythonProgram/onethr.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Count_EX.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Django_Form.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Expert_Python_Programming/Coroutine_EX.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Expert_Python_Programming/Decorator_EX.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Expert_Python_Programming/Generator_EX.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Expert_Python_Programming/Iterator_EX.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Expert_Python_Programming/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Expert_Python_Programming/itertools_EX.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Expert_Python_Programming/multitask.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Expert_Python_Programming/tokenize_EX.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JS/JS__EX1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JS/数据类型和变量.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pygments/Starting.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pygments/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Basic/Class_Attribute.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Basic/Cls__and__Static.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Basic/Dcorator__EX.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Basic/Generator_Doc.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Basic/Property_Deco.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Basic/Simple_Compiler.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Basic/Singleton.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Basic/Str_and_repr.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Basic/new__init__Python.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Basic/yield__Ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookrank.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/liaoxuefeng/Class _Restrict.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/liaoxuefeng/Class.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/liaoxuefeng/Class__Instance.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/liaoxuefeng/Class__design.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/liaoxuefeng/Function_Programming.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/liaoxuefeng/Inheritence_EX.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/liaoxuefeng/Obj_Information.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/liaoxuefeng/Tower of Hanoi.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CorePythonProgram/CSV_Py.py" afterPath="$PROJECT_DIR$/CorePythonProgram/CSV_Py.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Django_Doc/__django_signal.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Expert_Python_Programming/ABC__abstract.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Expert_Python_Programming/Heterogeneous Argument.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Expert_Python_Programming/Iter___tools.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Expert_Python_Programming/Multi_Task_ex.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Expert_Python_Programming/Private__variable.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Expert_Python_Programming/SortedList__bisec.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Expert_Python_Programming/With__statement.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Expert_Python_Programming/Yield_return_a_value.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Expert_Python_Programming/caching_deco.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Expert_Python_Programming/descriptor__ex.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Expert_Python_Programming/distinct_Dict.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Expert_Python_Programming/inheritance_ex.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Expert_Python_Programming/super__usage.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JS/_2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JS/__1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JS/__test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JS/__time_useage.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JS/_fucntion.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JS/_weight_height.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Doc/Dcorator__ex.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Doc/__new__method.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Doc/decorator_practice.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Doc/decorator_with_arguments.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/Condition__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/Event__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/GIL__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/Lock__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/PriorityQueue__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/Queue__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/Semaphore__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/ThreadingPool__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__Queue_fetch_prodcasts.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__Queue_priority.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__StringIO_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__base64_encode.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__collections__deque_both_ends.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__collections_counter.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__collections_defaultdict.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__collections_deque.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__collections_deque_rotate.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__collections_namedtuple_person.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__collections_ordereddict_iter.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__collections_tuple.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__copy_hooks.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__copy_recursion.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__copy_shallow.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__datetime_date.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__datetime_datetime_strptime.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__datetime_time.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__functiontools_method.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__functools_partial.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__functools_update_wrapper.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__glob_asterisk.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__itertools_chain.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__itertools_count.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__itertools_dropwhile.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__itertools_groupby_sq.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__itertools_ifilter.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__itertools_tee.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__multipleprocessing_namespace.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__multiprocessing_condition.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__multiprocessing_daemon.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__multiprocessing_event.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__multiprocessing_exitcode.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__multiprocessing_lock.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__multiprocessing_log_to_stderr.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__multiprocessing_manager_dict.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__multiprocessing_names.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__multiprocessing_pool.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__multiprocessing_pool_maxtasksperchild.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__multiprocessing_producer_consumer.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__multiprocessing_queue.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__multiprocessing_semaphore.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__multiprocessing_simple.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__multiprocessing_subclass.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__multiprocessing_wordcount.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__operater_boolean.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__os_cwd_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__os_environ_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__os_popen.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__os_usage.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__pprint_pprint.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__signal.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__signal_alarm.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__signal_getsignal.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__signal_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__struct_pack.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__subprocess_check_output_error.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__subprocess_os_system.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__subprocess_pipe.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__subprocess_popen2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__subprocess_popen3.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__subprocess_popen_read.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__threading_condition.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__threading_daemon.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__threading_daemon_join.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__threading_daemon_join_timeout.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__threading_enumerate.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__threading_event.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__threading_local.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__threading_local_default.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__threading_lock.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__threading_lock_noblock.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__threading_lock_reacquire.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__threading_lock_with.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__threading_name.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__threading_names_log.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__threading_semaphore.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__threading_simple.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__threading_subclass.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__threading_subclass_args.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__threading_timer.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__time_clock.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__time_clock_sleep.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__time_struct.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__time_time.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__urllib.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__urllib2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__urllib2_post.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__urllib2_request_header.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__urllib2_request_post.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__urllib2_upload_files.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__urllib_encode.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/__urllib_path.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/dir/file.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/dir/file1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/dir/file2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/dir/filea.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/dir/fileb.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/dir/sudir/subfile.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/glob_maketestdate.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/heapq_heapdata.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/heapq_heappush.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/heapq_showtree.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/multiprocessing_mapreduce.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/ospath_abspath.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/ospath_join.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/ospath_properties.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/ospath_split.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/ospath_tests.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/ospath_walk.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Standard_Library/pprint_data.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Scraping/__super.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/The Hacker's Guide to  Python/API__change.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/The Hacker's Guide to  Python/Creating_decorator.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/The Hacker's Guide to  Python/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/The Hacker's Guide to  Python/multiprocessing__ex.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/The Hacker's Guide to  Python/multithreading___ex.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/The Hacker's Guide to  Python/update_wrapper.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/__SendEmail.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/__Super_usage/__Python_super_considered_super.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/__Super_usage/__calender_textcalendar.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/__Super_usage/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/__Super_usage/__super.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/__decorator.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/__urllib2_usage/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/__urllib2_usage/__urllib__1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_python" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tasks.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/viber.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Expert_Python_Programming/Coroutine_EX.py" afterPath="$PROJECT_DIR$/Expert_Python_Programming/Coroutine_EX.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Expert_Python_Programming/Decorator_EX.py" afterPath="$PROJECT_DIR$/Expert_Python_Programming/Decorator_EX.py" />
     </list>
     <ignored path="eVeryDay.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -71,63 +179,196 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/eVeryDay$__collections_defaultdict.coverage" NAME="__collections_defaultdict Coverage Results" MODIFIED="1481679740291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
     <SUITE FILE_PATH="coverage/eVeryDay$Headq_EX.coverage" NAME="Headq_EX Coverage Results" MODIFIED="1479352260409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Cookbook" />
-    <SUITE FILE_PATH="coverage/eVeryDay$Threading_mtsleepD.coverage" NAME="Threading_mtsleepD Coverage Results" MODIFIED="1478664423825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__urllib_encode.coverage" NAME="__urllib_encode Coverage Results" MODIFIED="1481440746899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__copy_hooks.coverage" NAME="__copy_hooks Coverage Results" MODIFIED="1481963874155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__os_popen.coverage" NAME="__os_popen Coverage Results" MODIFIED="1482058050083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
     <SUITE FILE_PATH="coverage/eVeryDay$onethr.coverage" NAME="onethr Coverage Results" MODIFIED="1478655764034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CorePythonProgram" />
-    <SUITE FILE_PATH="coverage/eVeryDay$Inheritence_EX.coverage" NAME="Inheritence_EX Coverage Results" MODIFIED="1479370165774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/liaoxuefeng" />
     <SUITE FILE_PATH="coverage/eVeryDay$itertools_EX.coverage" NAME="itertools_EX Coverage Results" MODIFIED="1479890333117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Expert_Python_Programming" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__collections_ordereddict_iter.coverage" NAME="__collections_ordereddict_iter Coverage Results" MODIFIED="1481651986714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
+    <SUITE FILE_PATH="coverage/eVeryDay$Condition__.coverage" NAME="Condition__ Coverage Results" MODIFIED="1481871911335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
     <SUITE FILE_PATH="coverage/eVeryDay$Class.coverage" NAME="Class Coverage Results" MODIFIED="1479367074671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/liaoxuefeng" />
-    <SUITE FILE_PATH="coverage/eVeryDay$Dcorator__EX.coverage" NAME="Dcorator__EX Coverage Results" MODIFIED="1479976432949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Basic" />
+    <SUITE FILE_PATH="coverage/eVeryDay$heapq_heappush.coverage" NAME="heapq_heappush Coverage Results" MODIFIED="1481683335952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__signal.coverage" NAME="__signal Coverage Results" MODIFIED="1482975721245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__threading_daemon_join_timeout.coverage" NAME="__threading_daemon_join_timeout Coverage Results" MODIFIED="1481689099383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__subprocess_popen2.coverage" NAME="__subprocess_popen2 Coverage Results" MODIFIED="1482983760837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
     <SUITE FILE_PATH="coverage/eVeryDay$Threading_candy.coverage" NAME="Threading_candy Coverage Results" MODIFIED="1478744374696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CorePythonProgram" />
-    <SUITE FILE_PATH="coverage/eVeryDay$GUI_EX1.coverage" NAME="GUI_EX1 Coverage Results" MODIFIED="1478753138198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CorePythonProgram" />
+    <SUITE FILE_PATH="coverage/eVeryDay$decorator_practice.coverage" NAME="decorator_practice Coverage Results" MODIFIED="1481164473192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Doc" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__multiprocessing_names.coverage" NAME="__multiprocessing_names Coverage Results" MODIFIED="1481708100686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__new__method.coverage" NAME="__new__method Coverage Results" MODIFIED="1483257304188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Doc" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__multiprocessing_wordcount.coverage" NAME="__multiprocessing_wordcount Coverage Results" MODIFIED="1481859556940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
+    <SUITE FILE_PATH="coverage/eVeryDay$ospath_properties.coverage" NAME="ospath_properties Coverage Results" MODIFIED="1484878142014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
     <SUITE FILE_PATH="coverage/eVeryDay$Ordering_dict_list.coverage" NAME="Ordering_dict_list Coverage Results" MODIFIED="1479373014735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Cookbook" />
+    <SUITE FILE_PATH="coverage/eVeryDay$descriptor__ex.coverage" NAME="descriptor__ex Coverage Results" MODIFIED="1481270397266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Expert_Python_Programming" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__copy_recursion.coverage" NAME="__copy_recursion Coverage Results" MODIFIED="1481964645826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
     <SUITE FILE_PATH="coverage/eVeryDay$tsTservSS.coverage" NAME="tsTservSS Coverage Results" MODIFIED="1478500764647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CorePythonProgram" />
-    <SUITE FILE_PATH="coverage/eVeryDay$ServerSock.coverage" NAME="ServerSock Coverage Results" MODIFIED="1478591550586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CorePythonProgram" />
     <SUITE FILE_PATH="coverage/eVeryDay$Thread_mtsleepB.coverage" NAME="Thread_mtsleepB Coverage Results" MODIFIED="1478660010373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CorePythonProgram" />
-    <SUITE FILE_PATH="coverage/eVeryDay$Class__Instance.coverage" NAME="Class__Instance Coverage Results" MODIFIED="1479369120931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/liaoxuefeng" />
-    <SUITE FILE_PATH="coverage/eVeryDay$yield__Ex.coverage" NAME="yield__Ex Coverage Results" MODIFIED="1479907485419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Basic" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__multiprocessing_condition.coverage" NAME="__multiprocessing_condition Coverage Results" MODIFIED="1481855560481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
     <SUITE FILE_PATH="coverage/eVeryDay$Class__design.coverage" NAME="Class__design Coverage Results" MODIFIED="1479984529598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/liaoxuefeng" />
+    <SUITE FILE_PATH="coverage/eVeryDay$Semaphore__.coverage" NAME="Semaphore__ Coverage Results" MODIFIED="1481870800438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__threading_name.coverage" NAME="__threading_name Coverage Results" MODIFIED="1482127538842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
     <SUITE FILE_PATH="coverage/eVeryDay$Generator_EX.coverage" NAME="Generator_EX Coverage Results" MODIFIED="1479887050472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Expert_Python_Programming" />
     <SUITE FILE_PATH="coverage/eVeryDay$Multidict_EX.coverage" NAME="Multidict_EX Coverage Results" MODIFIED="1479358922286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Cookbook" />
-    <SUITE FILE_PATH="coverage/eVeryDay$Iterator_EX.coverage" NAME="Iterator_EX Coverage Results" MODIFIED="1480671606207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Expert_Python_Programming" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__multiprocessing_pool_maxtasksperchild.coverage" NAME="__multiprocessing_pool_maxtasksperchild Coverage Results" MODIFIED="1481858386141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
     <SUITE FILE_PATH="coverage/eVeryDay$Class_Attribute.coverage" NAME="Class_Attribute Coverage Results" MODIFIED="1478956880465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Basic" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__threading_simple.coverage" NAME="__threading_simple Coverage Results" MODIFIED="1481684139932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__itertools_tee.coverage" NAME="__itertools_tee Coverage Results" MODIFIED="1481968885909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__subprocess_pipe.coverage" NAME="__subprocess_pipe Coverage Results" MODIFIED="1482986724766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
     <SUITE FILE_PATH="coverage/eVeryDay$Verification_Code.coverage" NAME="Verification_Code Coverage Results" MODIFIED="1478480823109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/eVeryDay$AdvancedRequests.coverage" NAME="AdvancedRequests Coverage Results" MODIFIED="1477482425253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__subprocess_popen3.coverage" NAME="__subprocess_popen3 Coverage Results" MODIFIED="1482985763156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__multiprocessing_event.coverage" NAME="__multiprocessing_event Coverage Results" MODIFIED="1481854734708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
     <SUITE FILE_PATH="coverage/eVeryDay$ServerTW.coverage" NAME="ServerTW Coverage Results" MODIFIED="1478575906354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CorePythonProgram" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__datetime_date.coverage" NAME="__datetime_date Coverage Results" MODIFIED="1482392539017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
     <SUITE FILE_PATH="coverage/eVeryDay$Tower_of_Hanoi.coverage" NAME="Tower of Hanoi Coverage Results" MODIFIED="1479972523651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/liaoxuefeng" />
     <SUITE FILE_PATH="coverage/eVeryDay$Threading_Production.coverage" NAME="Threading_Production Coverage Results" MODIFIED="1478746252796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CorePythonProgram" />
-    <SUITE FILE_PATH="coverage/eVeryDay$Threading_mtsleepC.coverage" NAME="Threading_mtsleepC Coverage Results" MODIFIED="1478661437203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CorePythonProgram" />
-    <SUITE FILE_PATH="coverage/eVeryDay$Decorator_EX.coverage" NAME="Decorator_EX Coverage Results" MODIFIED="1479892485536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Expert_Python_Programming" />
+    <SUITE FILE_PATH="coverage/eVeryDay$Decorator_EX.coverage" NAME="Decorator_EX Coverage Results" MODIFIED="1480686328921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Expert_Python_Programming" />
     <SUITE FILE_PATH="coverage/eVeryDay$URLopen_auth.coverage" NAME="URLopen_auth Coverage Results" MODIFIED="1478919937801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CorePythonProgram" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__struct_pack.coverage" NAME="__struct_pack Coverage Results" MODIFIED="1481962992201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
+    <SUITE FILE_PATH="coverage/eVeryDay$Queue__.coverage" NAME="Queue__ Coverage Results" MODIFIED="1481873240512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__threading_enumerate.coverage" NAME="__threading_enumerate Coverage Results" MODIFIED="1481691283635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__multiprocessing_daemon.coverage" NAME="__multiprocessing_daemon Coverage Results" MODIFIED="1481782133913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__time_clock.coverage" NAME="__time_clock Coverage Results" MODIFIED="1482390947470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
     <SUITE FILE_PATH="coverage/eVeryDay$Thread_mtsleepA.coverage" NAME="Thread_mtsleepA Coverage Results" MODIFIED="1478656986741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CorePythonProgram" />
-    <SUITE FILE_PATH="coverage/eVeryDay$Cls__and__Static.coverage" NAME="Cls__and__Static Coverage Results" MODIFIED="1479904368128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Basic" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__itertools_chain.coverage" NAME="__itertools_chain Coverage Results" MODIFIED="1481968231577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
+    <SUITE FILE_PATH="coverage/eVeryDay$glob_maketestdate.coverage" NAME="glob_maketestdate Coverage Results" MODIFIED="1484801485330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
+    <SUITE FILE_PATH="coverage/eVeryDay$super__usage.coverage" NAME="super__usage Coverage Results" MODIFIED="1481267869971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Expert_Python_Programming" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__multipleprocessing_namespace.coverage" NAME="__multipleprocessing_namespace Coverage Results" MODIFIED="1481857531556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
+    <SUITE FILE_PATH="coverage/eVeryDay$ospath_join.coverage" NAME="ospath_join Coverage Results" MODIFIED="1484795657892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__signal_getsignal.coverage" NAME="__signal_getsignal Coverage Results" MODIFIED="1482977269723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
     <SUITE FILE_PATH="coverage/eVeryDay$Threading_mtfacfib.coverage" NAME="Threading_mtfacfib Coverage Results" MODIFIED="1478667755170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/eVeryDay$ClientSock.coverage" NAME="ClientSock Coverage Results" MODIFIED="1478492869899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CorePythonProgram" />
+    <SUITE FILE_PATH="coverage/eVeryDay$subprocess.coverage" NAME="subprocess Coverage Results" MODIFIED="1482983412865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/usr/lib/python2.7" />
     <SUITE FILE_PATH="coverage/eVeryDay$Count_EX.coverage" NAME="Count_EX Coverage Results" MODIFIED="1479365927036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__itertools_count.coverage" NAME="__itertools_count Coverage Results" MODIFIED="1481970656607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
+    <SUITE FILE_PATH="coverage/eVeryDay$Yield_return_a_value.coverage" NAME="Yield_return_a_value Coverage Results" MODIFIED="1480940659942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Expert_Python_Programming" />
     <SUITE FILE_PATH="coverage/eVeryDay$CSV_Py.coverage" NAME="CSV_Py Coverage Results" MODIFIED="1478607532503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CorePythonProgram" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__time_clock_sleep.coverage" NAME="__time_clock_sleep Coverage Results" MODIFIED="1482391178616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
     <SUITE FILE_PATH="coverage/eVeryDay$UsingRequests.coverage" NAME="UsingRequests Coverage Results" MODIFIED="1479892434676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/eVeryDay$Delete_Repeat.coverage" NAME="Delete_Repeat Coverage Results" MODIFIED="1479358942698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Cookbook" />
-    <SUITE FILE_PATH="coverage/eVeryDay$Property_Deco.coverage" NAME="Property_Deco Coverage Results" MODIFIED="1479089812569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Basic" />
-    <SUITE FILE_PATH="coverage/eVeryDay$Generator_Doc.coverage" NAME="Generator_Doc Coverage Results" MODIFIED="1479096656663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Basic" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__multiprocessing_subclass.coverage" NAME="__multiprocessing_subclass Coverage Results" MODIFIED="1481851816715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__collections_deque.coverage" NAME="__collections_deque Coverage Results" MODIFIED="1481650139343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__time_struct.coverage" NAME="__time_struct Coverage Results" MODIFIED="1482392150592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__calender_textcalendar.coverage" NAME="__calender_textcalendar Coverage Results" MODIFIED="1482393619122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__Super_usage" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__threading_lock_noblock.coverage" NAME="__threading_lock_noblock Coverage Results" MODIFIED="1481705797370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
+    <SUITE FILE_PATH="coverage/eVeryDay$Event__.coverage" NAME="Event__ Coverage Results" MODIFIED="1481872785569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__threading_semaphore.coverage" NAME="__threading_semaphore Coverage Results" MODIFIED="1481772654354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
     <SUITE FILE_PATH="coverage/eVeryDay$SMTPex.coverage" NAME="SMTPex Coverage Results" MODIFIED="1478600671255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/eVeryDay$Python_Test.coverage" NAME="Python_Test Coverage Results" MODIFIED="1477905894321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/eVeryDay$multiprocessing__ex.coverage" NAME="multiprocessing__ex Coverage Results" MODIFIED="1480989269192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/The Hacker's Guide to  Python" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__super.coverage" NAME="__super Coverage Results" MODIFIED="1482220818282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__Super_usage" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__urllib__1.coverage" NAME="__urllib__1 Coverage Results" MODIFIED="1482224865739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__urllib2_usage" />
     <SUITE FILE_PATH="coverage/eVeryDay$Starting.coverage" NAME="Starting Coverage Results" MODIFIED="1479352235369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pygments" />
-    <SUITE FILE_PATH="coverage/eVeryDay$Slice_EX.coverage" NAME="Slice_EX Coverage Results" MODIFIED="1479365456432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Cookbook" />
-    <SUITE FILE_PATH="coverage/eVeryDay$new__init__Python.coverage" NAME="new__init__Python Coverage Results" MODIFIED="1479374803751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Basic" />
-    <SUITE FILE_PATH="coverage/eVeryDay$gendata.coverage" NAME="gendata Coverage Results" MODIFIED="1478485899912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CorePythonProgram" />
     <SUITE FILE_PATH="coverage/eVeryDay$SQLAlchemy_pyEX2.coverage" NAME="SQLAlchemy_pyEX2 Coverage Results" MODIFIED="1478773971712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CorePythonProgram" />
-    <SUITE FILE_PATH="coverage/eVeryDay$PyUseInput.coverage" NAME="PyUseInput Coverage Results" MODIFIED="1478597385144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CorePythonProgram" />
-    <SUITE FILE_PATH="coverage/eVeryDay$MyHTTPd.coverage" NAME="MyHTTPd Coverage Results" MODIFIED="1478956452495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CorePythonProgram" />
-    <SUITE FILE_PATH="coverage/eVeryDay$FTPex.coverage" NAME="FTPex Coverage Results" MODIFIED="1478590819662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CorePythonProgram" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__multiprocessing_producer_consumer.coverage" NAME="__multiprocessing_producer_consumer Coverage Results" MODIFIED="1481854226857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
+    <SUITE FILE_PATH="coverage/eVeryDay$Creating_decorator.coverage" NAME="Creating_decorator Coverage Results" MODIFIED="1480934883766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/The Hacker's Guide to  Python" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__datetime_time.coverage" NAME="__datetime_time Coverage Results" MODIFIED="1482392325970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__threading_timer.coverage" NAME="__threading_timer Coverage Results" MODIFIED="1481698869698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__threading_event.coverage" NAME="__threading_event Coverage Results" MODIFIED="1481701518231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__signal_alarm.coverage" NAME="__signal_alarm Coverage Results" MODIFIED="1482979731047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__Queue_priority.coverage" NAME="__Queue_priority Coverage Results" MODIFIED="1481958706394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
+    <SUITE FILE_PATH="coverage/eVeryDay$ospath_split.coverage" NAME="ospath_split Coverage Results" MODIFIED="1484794927158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
     <SUITE FILE_PATH="coverage/eVeryDay$Singleton.coverage" NAME="Singleton Coverage Results" MODIFIED="1479378089746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Basic" />
     <SUITE FILE_PATH="coverage/eVeryDay$Lock_mtsleepF.coverage" NAME="Lock_mtsleepF Coverage Results" MODIFIED="1478679395287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CorePythonProgram" />
     <SUITE FILE_PATH="coverage/eVeryDay$tokenize_EX.coverage" NAME="tokenize_EX Coverage Results" MODIFIED="1480676891736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Expert_Python_Programming" />
     <SUITE FILE_PATH="coverage/eVeryDay$Deque_EX.coverage" NAME="Deque_EX Coverage Results" MODIFIED="1478706780389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Cookbook" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__collections_tuple.coverage" NAME="__collections_tuple Coverage Results" MODIFIED="1481651048017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
     <SUITE FILE_PATH="coverage/eVeryDay$SMTP_ex2.coverage" NAME="SMTP_ex2 Coverage Results" MODIFIED="1478600450918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/eVeryDay$Obj_Information.coverage" NAME="Obj_Information Coverage Results" MODIFIED="1479371090588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/liaoxuefeng" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__threading_lock.coverage" NAME="__threading_lock Coverage Results" MODIFIED="1481703055001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__multiprocessing_simple.coverage" NAME="__multiprocessing_simple Coverage Results" MODIFIED="1481706859593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
     <SUITE FILE_PATH="coverage/eVeryDay$test.coverage" NAME="test Coverage Results" MODIFIED="1478434633945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/eVeryDay$bookrank.coverage" NAME="bookrank Coverage Results" MODIFIED="1478673078499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__signal_test.coverage" NAME="__signal_test Coverage Results" MODIFIED="1482976206098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
     <SUITE FILE_PATH="coverage/eVeryDay$Function_Programming.coverage" NAME="Function_Programming Coverage Results" MODIFIED="1479979416864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/liaoxuefeng" />
+    <SUITE FILE_PATH="coverage/eVeryDay$ABC__abstract.coverage" NAME="ABC__abstract Coverage Results" MODIFIED="1480937949266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Expert_Python_Programming" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__glob_asterisk.coverage" NAME="__glob_asterisk Coverage Results" MODIFIED="1484801900991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__threading_daemon.coverage" NAME="__threading_daemon Coverage Results" MODIFIED="1482130543247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__multiprocessing_exitcode.coverage" NAME="__multiprocessing_exitcode Coverage Results" MODIFIED="1481851033099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__base64_encode.coverage" NAME="__base64_encode Coverage Results" MODIFIED="1481446450715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
+    <SUITE FILE_PATH="coverage/eVeryDay$Threading_mtsleepD.coverage" NAME="Threading_mtsleepD Coverage Results" MODIFIED="1478664423825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/eVeryDay$Coroutine_EX.coverage" NAME="Coroutine_EX Coverage Results" MODIFIED="1480680244523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Expert_Python_Programming" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__urllib2_request_header.coverage" NAME="__urllib2_request_header Coverage Results" MODIFIED="1481442947500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__threading_names_log.coverage" NAME="__threading_names_log Coverage Results" MODIFIED="1481686513163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__multiprocessing_log_to_stderr.coverage" NAME="__multiprocessing_log_to_stderr Coverage Results" MODIFIED="1481851519823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
+    <SUITE FILE_PATH="coverage/eVeryDay$inheritance_ex.coverage" NAME="inheritance_ex Coverage Results" MODIFIED="1481267059160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Expert_Python_Programming" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__multiprocessing_semaphore.coverage" NAME="__multiprocessing_semaphore Coverage Results" MODIFIED="1481856551746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__multiprocessing_manager_dict.coverage" NAME="__multiprocessing_manager_dict Coverage Results" MODIFIED="1481856979848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
+    <SUITE FILE_PATH="coverage/eVeryDay$SortedList__bisec.coverage" NAME="SortedList__bisec Coverage Results" MODIFIED="1480985652461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Expert_Python_Programming" />
+    <SUITE FILE_PATH="coverage/eVeryDay$Inheritence_EX.coverage" NAME="Inheritence_EX Coverage Results" MODIFIED="1479370165774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/liaoxuefeng" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__threading_subclass.coverage" NAME="__threading_subclass Coverage Results" MODIFIED="1481697507930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__os_cwd_example.coverage" NAME="__os_cwd_example Coverage Results" MODIFIED="1482026174852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__Python_super_considered_super.coverage" NAME="__Python_super_considered_super Coverage Results" MODIFIED="1482290857995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__Super_usage" />
+    <SUITE FILE_PATH="coverage/eVeryDay$ospath_tests.coverage" NAME="ospath_tests Coverage Results" MODIFIED="1484796358126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
+    <SUITE FILE_PATH="coverage/eVeryDay$Private__variable.coverage" NAME="Private__variable Coverage Results" MODIFIED="1480733017318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Expert_Python_Programming" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__datetime_datetime_strptime.coverage" NAME="__datetime_datetime_strptime Coverage Results" MODIFIED="1482393419241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
+    <SUITE FILE_PATH="coverage/eVeryDay$Dcorator__EX.coverage" NAME="Dcorator__EX Coverage Results" MODIFIED="1479976432949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Basic" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__threading_local.coverage" NAME="__threading_local Coverage Results" MODIFIED="1481773512569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
+    <SUITE FILE_PATH="coverage/eVeryDay$distinct_Dict.coverage" NAME="distinct_Dict Coverage Results" MODIFIED="1481246106633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Expert_Python_Programming" />
+    <SUITE FILE_PATH="coverage/eVeryDay$GUI_EX1.coverage" NAME="GUI_EX1 Coverage Results" MODIFIED="1478753138198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CorePythonProgram" />
+    <SUITE FILE_PATH="coverage/eVeryDay$ServerSock.coverage" NAME="ServerSock Coverage Results" MODIFIED="1478591550586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CorePythonProgram" />
+    <SUITE FILE_PATH="coverage/eVeryDay$Class__Instance.coverage" NAME="Class__Instance Coverage Results" MODIFIED="1479369120931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/liaoxuefeng" />
+    <SUITE FILE_PATH="coverage/eVeryDay$yield__Ex.coverage" NAME="yield__Ex Coverage Results" MODIFIED="1479907485419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Basic" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__itertools_dropwhile.coverage" NAME="__itertools_dropwhile Coverage Results" MODIFIED="1481970997205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
+    <SUITE FILE_PATH="coverage/eVeryDay$Iterator_EX.coverage" NAME="Iterator_EX Coverage Results" MODIFIED="1480671606207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Expert_Python_Programming" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__os_environ_example.coverage" NAME="__os_environ_example Coverage Results" MODIFIED="1482026021641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__time_time.coverage" NAME="__time_time Coverage Results" MODIFIED="1482390328047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__operater_boolean.coverage" NAME="__operater_boolean Coverage Results" MODIFIED="1482058395833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
+    <SUITE FILE_PATH="coverage/eVeryDay$AdvancedRequests.coverage" NAME="AdvancedRequests Coverage Results" MODIFIED="1477482425253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__collections__deque_both_ends.coverage" NAME="__collections__deque_both_ends Coverage Results" MODIFIED="1481650539901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__urllib.coverage" NAME="__urllib Coverage Results" MODIFIED="1481433599052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
+    <SUITE FILE_PATH="coverage/eVeryDay$Threading_mtsleepC.coverage" NAME="Threading_mtsleepC Coverage Results" MODIFIED="1478661437203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CorePythonProgram" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__pprint_pprint.coverage" NAME="__pprint_pprint Coverage Results" MODIFIED="1481711225168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__itertools_groupby_sq.coverage" NAME="__itertools_groupby_sq Coverage Results" MODIFIED="1481971642103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
+    <SUITE FILE_PATH="coverage/eVeryDay$With__statement.coverage" NAME="With__statement Coverage Results" MODIFIED="1480698127873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Expert_Python_Programming" />
+    <SUITE FILE_PATH="coverage/eVeryDay$Cls__and__Static.coverage" NAME="Cls__and__Static Coverage Results" MODIFIED="1479904368128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Basic" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__urllib_path.coverage" NAME="__urllib_path Coverage Results" MODIFIED="1481441428125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__multiprocessing_lock.coverage" NAME="__multiprocessing_lock Coverage Results" MODIFIED="1481855141440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
+    <SUITE FILE_PATH="coverage/eVeryDay$multithreading___ex.coverage" NAME="multithreading___ex Coverage Results" MODIFIED="1480989003144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Expert_Python_Programming" />
+    <SUITE FILE_PATH="coverage/eVeryDay$ClientSock.coverage" NAME="ClientSock Coverage Results" MODIFIED="1478492869899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CorePythonProgram" />
+    <SUITE FILE_PATH="coverage/eVeryDay$ospath_walk.coverage" NAME="ospath_walk Coverage Results" MODIFIED="1484800328634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__subprocess_os_system.coverage" NAME="__subprocess_os_system Coverage Results" MODIFIED="1484878175854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
+    <SUITE FILE_PATH="coverage/eVeryDay$update_wrapper.coverage" NAME="update_wrapper Coverage Results" MODIFIED="1480937261717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/The Hacker's Guide to  Python" />
+    <SUITE FILE_PATH="coverage/eVeryDay$Dcorator__ex.coverage" NAME="Dcorator__ex Coverage Results" MODIFIED="1481161522683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Doc" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__multiprocessing_queue.coverage" NAME="__multiprocessing_queue Coverage Results" MODIFIED="1481852159691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__collections_namedtuple_person.coverage" NAME="__collections_namedtuple_person Coverage Results" MODIFIED="1481651780287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
+    <SUITE FILE_PATH="coverage/eVeryDay$Delete_Repeat.coverage" NAME="Delete_Repeat Coverage Results" MODIFIED="1479358942698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Cookbook" />
+    <SUITE FILE_PATH="coverage/eVeryDay$Heterogeneous_Argument.coverage" NAME="Heterogeneous Argument Coverage Results" MODIFIED="1481268408482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Expert_Python_Programming" />
+    <SUITE FILE_PATH="coverage/eVeryDay$Multi_Task_ex.coverage" NAME="Multi_Task_ex Coverage Results" MODIFIED="1480680249428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Expert_Python_Programming" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__threading_local_default.coverage" NAME="__threading_local_default Coverage Results" MODIFIED="1481775296790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__functools_partial.coverage" NAME="__functools_partial Coverage Results" MODIFIED="1481965564031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
+    <SUITE FILE_PATH="coverage/eVeryDay$ospath_abspath.coverage" NAME="ospath_abspath Coverage Results" MODIFIED="1484795835797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
+    <SUITE FILE_PATH="coverage/eVeryDay$Property_Deco.coverage" NAME="Property_Deco Coverage Results" MODIFIED="1479089812569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Basic" />
+    <SUITE FILE_PATH="coverage/eVeryDay$Generator_Doc.coverage" NAME="Generator_Doc Coverage Results" MODIFIED="1479096656663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Basic" />
+    <SUITE FILE_PATH="coverage/eVeryDay$decorator_with_arguments.coverage" NAME="decorator_with_arguments Coverage Results" MODIFIED="1481162909390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Doc" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__urllib2_request_post.coverage" NAME="__urllib2_request_post Coverage Results" MODIFIED="1481443286408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__collections.coverage" NAME="__collections Coverage Results" MODIFIED="1481565030125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__threading_subclass_args.coverage" NAME="__threading_subclass_args Coverage Results" MODIFIED="1481698249906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__threading_condition.coverage" NAME="__threading_condition Coverage Results" MODIFIED="1481771489208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__time_useage.coverage" NAME="__time_useage Coverage Results" MODIFIED="1483078645428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JS" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__decorator.coverage" NAME="__decorator Coverage Results" MODIFIED="1482927937166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/eVeryDay$Python_Test.coverage" NAME="Python_Test Coverage Results" MODIFIED="1477905894321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__threading_daemon_join.coverage" NAME="__threading_daemon_join Coverage Results" MODIFIED="1481686915058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__threading_lock_reacquire.coverage" NAME="__threading_lock_reacquire Coverage Results" MODIFIED="1481706639290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__urllib2.coverage" NAME="__urllib2 Coverage Results" MODIFIED="1481442096289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__StringIO_example.coverage" NAME="__StringIO_example Coverage Results" MODIFIED="1481681660912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
+    <SUITE FILE_PATH="coverage/eVeryDay$Slice_EX.coverage" NAME="Slice_EX Coverage Results" MODIFIED="1479365456432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Cookbook" />
+    <SUITE FILE_PATH="coverage/eVeryDay$new__init__Python.coverage" NAME="new__init__Python Coverage Results" MODIFIED="1479374803751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Basic" />
+    <SUITE FILE_PATH="coverage/eVeryDay$gendata.coverage" NAME="gendata Coverage Results" MODIFIED="1478485899912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CorePythonProgram" />
+    <SUITE FILE_PATH="coverage/eVeryDay$API__change.coverage" NAME="API__change Coverage Results" MODIFIED="1480928050462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/The Hacker's Guide to  Python" />
+    <SUITE FILE_PATH="coverage/eVeryDay$PyUseInput.coverage" NAME="PyUseInput Coverage Results" MODIFIED="1478597385144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CorePythonProgram" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__urllib2_post.coverage" NAME="__urllib2_post Coverage Results" MODIFIED="1481442618175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__itertools_ifilter.coverage" NAME="__itertools_ifilter Coverage Results" MODIFIED="1481971241959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__subprocess_popen_read.coverage" NAME="__subprocess_popen_read Coverage Results" MODIFIED="1482983517213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__copy_shallow.coverage" NAME="__copy_shallow Coverage Results" MODIFIED="1481710012256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__functools_update_wrapper.coverage" NAME="__functools_update_wrapper Coverage Results" MODIFIED="1481966614707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
+    <SUITE FILE_PATH="coverage/eVeryDay$PriorityQueue__.coverage" NAME="PriorityQueue__ Coverage Results" MODIFIED="1481958697422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
+    <SUITE FILE_PATH="coverage/eVeryDay$MyHTTPd.coverage" NAME="MyHTTPd Coverage Results" MODIFIED="1478956452495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CorePythonProgram" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__collections_deque_rotate.coverage" NAME="__collections_deque_rotate Coverage Results" MODIFIED="1481650722180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/eVeryDay$FTPex.coverage" NAME="FTPex Coverage Results" MODIFIED="1478590819662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CorePythonProgram" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__test.coverage" NAME="__test Coverage Results" MODIFIED="1483255663940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JS" />
+    <SUITE FILE_PATH="coverage/eVeryDay$ThreadingPool__.coverage" NAME="ThreadingPool__ Coverage Results" MODIFIED="1481874434072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
+    <SUITE FILE_PATH="coverage/eVeryDay$Iter___tools.coverage" NAME="Iter___tools Coverage Results" MODIFIED="1480683584224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Expert_Python_Programming" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__multiprocessing_pool.coverage" NAME="__multiprocessing_pool Coverage Results" MODIFIED="1481857926816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
+    <SUITE FILE_PATH="coverage/eVeryDay$__threading_lock_with.coverage" NAME="__threading_lock_with Coverage Results" MODIFIED="1481771001428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
+    <SUITE FILE_PATH="coverage/eVeryDay$GIL__.coverage" NAME="GIL__ Coverage Results" MODIFIED="1481870326824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_Standard_Library" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -146,44 +387,62 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Decorator_EX.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Expert_Python_Programming/Decorator_EX.py">
+      <file leaf-file-name="__subprocess_check_output_error.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python_Standard_Library/__subprocess_check_output_error.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1078">
-              <caret line="64" column="20" selection-start-line="64" selection-start-column="20" selection-end-line="64" selection-end-column="20" />
+            <state relative-caret-position="209">
+              <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Iterator_EX.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Expert_Python_Programming/Iterator_EX.py">
+      <file leaf-file-name="__subprocess_os_system.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python_Standard_Library/__subprocess_os_system.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="73">
-              <caret line="69" column="0" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+            <state relative-caret-position="266">
+              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tokenize_EX.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Expert_Python_Programming/tokenize_EX.py">
+      <file leaf-file-name="__subprocess_pipe.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Python_Standard_Library/__subprocess_pipe.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
-              <caret line="72" column="0" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+            <state relative-caret-position="589">
+              <caret line="31" column="29" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Coroutine_EX.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Expert_Python_Programming/Coroutine_EX.py">
+      <file leaf-file-name="__subprocess_popen3.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python_Standard_Library/__subprocess_popen3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#37#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__subprocess_popen2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python_Standard_Library/__subprocess_popen2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__subprocess_popen_read.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python_Standard_Library/__subprocess_popen_read.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -193,9 +452,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -205,57 +464,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CorePythonProgram/Threading_mtsleepC.py" />
-        <option value="$PROJECT_DIR$/Threading_mtsleepD.py" />
-        <option value="$PROJECT_DIR$/Threding_mtsleepE.py" />
-        <option value="$PROJECT_DIR$/Threading_mtfacfib.py" />
-        <option value="$PROJECT_DIR$/MyThread.py" />
-        <option value="$PROJECT_DIR$/bookrank.py" />
-        <option value="$PROJECT_DIR$/CorePythonProgram/Lock_mtsleepF.py" />
-        <option value="$PROJECT_DIR$/Cookbook/Deque_EX.py" />
-        <option value="$PROJECT_DIR$/CorePythonProgram/Threading_candy.py" />
-        <option value="$PROJECT_DIR$/CorePythonProgram/Threading_Production.py" />
-        <option value="$PROJECT_DIR$/CorePythonProgram/MyThread.py" />
-        <option value="$PROJECT_DIR$/CorePythonProgram/GUI_EX1.py" />
-        <option value="$PROJECT_DIR$/CorePythonProgram/MYSQL_pyEX.py" />
-        <option value="$PROJECT_DIR$/CorePythonProgram/SQLAlchemy_shuffle.py" />
-        <option value="$PROJECT_DIR$/CorePythonProgram/SQLAlchemy_pyEX2.py" />
-        <option value="$PROJECT_DIR$/CorePythonProgram/URLopen_auth.py" />
-        <option value="$PROJECT_DIR$/CorePythonProgram/MyHTTPd.py" />
-        <option value="$PROJECT_DIR$/Python_Basic/Class_Attribute.py" />
-        <option value="$PROJECT_DIR$/Python_Basic/Property_Deco.py" />
-        <option value="$PROJECT_DIR$/Python_Basic/Generator_Doc.py" />
-        <option value="$PROJECT_DIR$/Python_Basic/Simple_Compiler.py" />
-        <option value="$PROJECT_DIR$/Pygments/Starting.py" />
-        <option value="$PROJECT_DIR$/Cookbook/Headq_EX.py" />
-        <option value="$PROJECT_DIR$/Cookbook/Multidict_EX.py" />
-        <option value="$PROJECT_DIR$/Cookbook/Delete_Repeat.py" />
-        <option value="$PROJECT_DIR$/Cookbook/Slice_EX.py" />
-        <option value="$PROJECT_DIR$/Count_EX.py" />
-        <option value="$PROJECT_DIR$/liaoxuefeng/Class.py" />
-        <option value="$PROJECT_DIR$/liaoxuefeng/Class__Instance.py" />
-        <option value="$PROJECT_DIR$/liaoxuefeng/Class _Restrict.py" />
-        <option value="$PROJECT_DIR$/liaoxuefeng/Inheritence_EX.py" />
-        <option value="$PROJECT_DIR$/liaoxuefeng/Obj_Information.py" />
-        <option value="$PROJECT_DIR$/Cookbook/Ordering_dict_list.py" />
-        <option value="$PROJECT_DIR$/Python_Basic/new__init__Python.py" />
-        <option value="$PROJECT_DIR$/Python_Basic/Singleton.py" />
-        <option value="$PROJECT_DIR$/Expert_Python_Programming/Generator_EX.py" />
-        <option value="$PROJECT_DIR$/Expert_Python_Programming/Coroutine_EX.py" />
-        <option value="$PROJECT_DIR$/Expert_Python_Programming/itertools_EX.py" />
-        <option value="$PROJECT_DIR$/Expert_Python_Programming/Decorator_EX.py" />
-        <option value="$PROJECT_DIR$/Python_Basic/Cls__and__Static.py" />
-        <option value="$PROJECT_DIR$/Python_Basic/Str_and_repr.py" />
-        <option value="$PROJECT_DIR$/Python_Basic/yield__Ex.py" />
-        <option value="$PROJECT_DIR$/liaoxuefeng/Tower of Hanoi.py" />
-        <option value="$PROJECT_DIR$/Python_Basic/Dcorator__EX.py" />
-        <option value="$PROJECT_DIR$/liaoxuefeng/Function_Programming.py" />
-        <option value="$PROJECT_DIR$/liaoxuefeng/Class__design.py" />
-        <option value="$PROJECT_DIR$/JS/JS__EX1.html" />
-        <option value="$PROJECT_DIR$/JS/数据类型和变量" />
-        <option value="$PROJECT_DIR$/JS/数据类型和变量.js" />
-        <option value="$PROJECT_DIR$/Expert_Python_Programming/Iterator_EX.py" />
-        <option value="$PROJECT_DIR$/Expert_Python_Programming/tokenize_EX.py" />
+        <option value="$PROJECT_DIR$/Python_Standard_Library/__itertools_groupby_sq.py" />
+        <option value="$PROJECT_DIR$/Python_Standard_Library/__os_environ_example.py" />
+        <option value="$PROJECT_DIR$/Python_Standard_Library/__os_cwd_example.py" />
+        <option value="$PROJECT_DIR$/Python_Standard_Library/__os_popen.py" />
+        <option value="$PROJECT_DIR$/Python_Standard_Library/__operater_boolean.py" />
+        <option value="$PROJECT_DIR$/Python_Standard_Library/__threading_name.py" />
+        <option value="$PROJECT_DIR$/Python_Standard_Library/__threading_daemon.py" />
+        <option value="$PROJECT_DIR$/__Super_usage/__super.py" />
+        <option value="$PROJECT_DIR$/Scraping/__super.py" />
+        <option value="$PROJECT_DIR$/__urllib2_usage/__urllib__1.py" />
+        <option value="$PROJECT_DIR$/__SendEmail.py" />
+        <option value="$PROJECT_DIR$/Python_Standard_Library/__time_time.py" />
+        <option value="$PROJECT_DIR$/Python_Standard_Library/__time_clock.py" />
+        <option value="$PROJECT_DIR$/Python_Standard_Library/__time_clock_sleep.py" />
+        <option value="$PROJECT_DIR$/Python_Standard_Library/__time_struct.py" />
+        <option value="$PROJECT_DIR$/Python_Standard_Library/__datetime_time.py" />
+        <option value="$PROJECT_DIR$/Python_Standard_Library/__datetime_date.py" />
+        <option value="$PROJECT_DIR$/Python_Standard_Library/__datetime_datetime_strptime.py" />
+        <option value="$PROJECT_DIR$/__Super_usage/__calender_textcalendar.py" />
+        <option value="$PROJECT_DIR$/__decorator.py" />
+        <option value="$PROJECT_DIR$/JS/__1.html" />
+        <option value="$PROJECT_DIR$/JS/_weight_height.js" />
+        <option value="$PROJECT_DIR$/JS/_fucntion.js" />
+        <option value="$PROJECT_DIR$/__Super_usage/__Python_super_considered_super.py" />
+        <option value="$PROJECT_DIR$/Python_Standard_Library/__signal.py" />
+        <option value="$PROJECT_DIR$/Python_Standard_Library/__signal_getsignal.py" />
+        <option value="$PROJECT_DIR$/Python_Standard_Library/__signal_test.py" />
+        <option value="$PROJECT_DIR$/Python_Standard_Library/__signal_alarm.py" />
+        <option value="$PROJECT_DIR$/__Super_usage/__subprocess_os_system.py" />
+        <option value="$PROJECT_DIR$/Python_Standard_Library/__subprocess_os_system.py" />
+        <option value="$PROJECT_DIR$/Python_Standard_Library/__subprocess_check_output_error.py" />
+        <option value="$PROJECT_DIR$/Python_Standard_Library/__subprocess_popen_read.py" />
+        <option value="$PROJECT_DIR$/Python_Standard_Library/__subprocess_popen2.py" />
+        <option value="$PROJECT_DIR$/Python_Standard_Library/__subprocess_popen3.py" />
+        <option value="$PROJECT_DIR$/Django_Doc/__django_signal.py" />
+        <option value="$PROJECT_DIR$/Python_Standard_Library/__subprocess_pipe.py" />
+        <option value="$PROJECT_DIR$/_python" />
+        <option value="$PROJECT_DIR$/JS/__time_useage.py" />
+        <option value="$PROJECT_DIR$/Python_Standard_Library/__os_usage.py" />
+        <option value="$PROJECT_DIR$/JS/__test.py" />
+        <option value="$PROJECT_DIR$/Python_Doc/__new__method.py" />
+        <option value="$PROJECT_DIR$/JS/_2.html" />
+        <option value="$PROJECT_DIR$/tasks.py" />
+        <option value="$PROJECT_DIR$/Python_Standard_Library/ospath_split.py" />
+        <option value="$PROJECT_DIR$/Python_Standard_Library/ospath_join.py" />
+        <option value="$PROJECT_DIR$/Python_Standard_Library/ospath_abspath.py" />
+        <option value="$PROJECT_DIR$/Python_Standard_Library/ospath_properties.py" />
+        <option value="$PROJECT_DIR$/Python_Standard_Library/ospath_tests.py" />
+        <option value="$PROJECT_DIR$/Python_Standard_Library/ospath_walk.py" />
+        <option value="$PROJECT_DIR$/Python_Standard_Library/glob_maketestdate.py" />
+        <option value="$PROJECT_DIR$/Python_Standard_Library/__glob_asterisk.py" />
       </list>
     </option>
   </component>
@@ -296,6 +555,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -324,107 +585,158 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Expert_Python_Programming" />
+              <option name="myItemId" value="Python_Standard_Library" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eVeryDay" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eVeryDay" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python_Standard_Library" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eVeryDay" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eVeryDay" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python_Standard_Library" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dir" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Python" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$USER_HOME$/DjangoProjects/aidingwang_3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="SearchEverywhereHistoryKey" value="settings.Login_URl&#9;null&#9;null" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/bin/node" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Expert_Python_Programming" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Python_Standard_Library" />
+      <recent name="$PROJECT_DIR$/The Hacker's Guide to  Python" />
       <recent name="$PROJECT_DIR$/CorePythonProgram" />
       <recent name="$PROJECT_DIR$/Requests_Package" />
       <recent name="$PROJECT_DIR$/Python_Doc" />
-      <recent name="$PROJECT_DIR$/Django_Doc" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.tokenize_EX">
-    <configuration default="false" name="Function_Programming" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.__subprocess_os_system">
+    <configuration default="false" name="ospath_properties" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/liaoxuefeng" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Standard_Library" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="eVeryDay" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/liaoxuefeng/Function_Programming.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Standard_Library/ospath_properties.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="Class__design" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="ospath_walk" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/liaoxuefeng" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Standard_Library" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="eVeryDay" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/liaoxuefeng/Class__design.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Standard_Library/ospath_walk.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="JS__EX1.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/eVeryDay/JS/JS__EX1.html">
-      <method />
-    </configuration>
-    <configuration default="false" name="Iterator_EX" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="glob_maketestdate" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Expert_Python_Programming" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Standard_Library" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="eVeryDay" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Expert_Python_Programming/Iterator_EX.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Standard_Library/glob_maketestdate.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="tokenize_EX" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="__glob_asterisk" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Expert_Python_Programming" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Standard_Library" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="eVeryDay" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Expert_Python_Programming/tokenize_EX.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Standard_Library/__glob_asterisk.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="__subprocess_os_system" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Standard_Library" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="eVeryDay" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Standard_Library/__subprocess_os_system.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -657,19 +969,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python.UsingRequests" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Function_Programming" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Class__design" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.JS__EX1.html" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Iterator_EX" />
-      <item index="5" class="java.lang.String" itemvalue="Python.tokenize_EX" />
+      <item index="1" class="java.lang.String" itemvalue="Python.ospath_properties" />
+      <item index="2" class="java.lang.String" itemvalue="Python.ospath_walk" />
+      <item index="3" class="java.lang.String" itemvalue="Python.glob_maketestdate" />
+      <item index="4" class="java.lang.String" itemvalue="Python.__glob_asterisk" />
+      <item index="5" class="java.lang.String" itemvalue="Python.__subprocess_os_system" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.tokenize_EX" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Iterator_EX" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.JS__EX1.html" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Class__design" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Function_Programming" />
+        <item index="0" class="java.lang.String" itemvalue="Python.__subprocess_os_system" />
+        <item index="1" class="java.lang.String" itemvalue="Python.ospath_properties" />
+        <item index="2" class="java.lang.String" itemvalue="Python.__glob_asterisk" />
+        <item index="3" class="java.lang.String" itemvalue="Python.glob_maketestdate" />
+        <item index="4" class="java.lang.String" itemvalue="Python.ospath_walk" />
       </list>
     </recent_temporary>
   </component>
@@ -746,21 +1058,30 @@
     <option name="localTasksCounter" value="9" />
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="1431" y="24" width="1855" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1840796" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.07573245" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32985386" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946378" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.55330884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43841335" sideWeight="0.49032614" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39874738" sideWeight="0.48462355" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23277661" sideWeight="0.4859038" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3862213" sideWeight="0.45273632" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24978392" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43841335" sideWeight="0.50967383" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3862213" sideWeight="0.5472637" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39979124" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3978328" sideWeight="0.49143174" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -830,380 +1151,382 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="15" />
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="17" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CorePythonProgram/Threading_mtfacfib.py">
+    <entry file="file://$USER_HOME$/Documents/wqs/stamp_2_date/to_new_store.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="559">
-          <caret line="45" column="11" selection-start-line="45" selection-start-column="0" selection-end-line="46" selection-end-column="10" />
+        <state relative-caret-position="54">
+          <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bookrank.py">
+    <entry file="file://$USER_HOME$/Documents/wqs/source/PaintApp/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="29" column="14" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
+        <state relative-caret-position="532">
+          <caret line="34" column="16" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CorePythonProgram/Threading_mtsleepC.py">
+    <entry file="file://$USER_HOME$/Documents/wqs/source/DrawApp/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+        <state relative-caret-position="-288">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CorePythonProgram/Lock_mtsleepF.py">
+    <entry file="file://$USER_HOME$/Documents/wqs/source/ClockApp/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/wqs/ShareYou/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="32" column="70" selection-start-line="32" selection-start-column="70" selection-end-line="32" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/wqs/source/EllipseApp/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/wqs/stamp_2_date/to_store.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-432">
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/wqs/source/RemoteDesktopApp/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__decorator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="477">
+          <caret line="57" column="0" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__Super_usage/__calender_textcalendar.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Cookbook/Deque_EX.py">
+    <entry file="file://$PROJECT_DIR$/JS/_weight_height.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        <state relative-caret-position="2413">
+          <caret line="129" column="0" selection-start-line="129" selection-start-column="0" selection-end-line="129" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CorePythonProgram/MyThread.py">
+    <entry file="file://$PROJECT_DIR$/JS/_fucntion.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CorePythonProgram/GUI_EX1.py">
+    <entry file="file://$USER_HOME$/.PyCharm2016.2/system/python_stubs/-1247972723/signal.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        <state relative-caret-position="133">
+          <caret line="79" column="11" selection-start-line="79" selection-start-column="11" selection-end-line="79" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CorePythonProgram/MYSQL_pyEX.py">
+    <entry file="file://$PROJECT_DIR$/Python_Standard_Library/__signal_alarm.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="25" selection-end-column="42" />
+          <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CorePythonProgram/Threading_candy.py">
+    <entry file="file://$PROJECT_DIR$/Python_Standard_Library/__signal_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        <state relative-caret-position="266">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CorePythonProgram/Threading_Production.py">
+    <entry file="file://$PROJECT_DIR$/Python_Standard_Library/__signal_getsignal.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="382">
-          <caret line="54" column="20" selection-start-line="54" selection-start-column="20" selection-end-line="54" selection-end-column="20" />
+        <state relative-caret-position="152">
+          <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CorePythonProgram/SQLAlchemy_shuffle.py">
+    <entry file="file://$PROJECT_DIR$/Python_Standard_Library/__signal.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="670">
-          <caret line="36" column="15" selection-start-line="36" selection-start-column="15" selection-end-line="36" selection-end-column="15" />
+        <state relative-caret-position="114">
+          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CorePythonProgram/SQLAlchemy_pyEX2.py">
+    <entry file="file://$PROJECT_DIR$/__Super_usage/__Python_super_considered_super.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="125" column="0" selection-start-line="125" selection-start-column="0" selection-end-line="125" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python2.7/subprocess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="800" column="0" selection-start-line="800" selection-start-column="0" selection-end-line="800" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_python">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1482">
+          <caret line="78" column="0" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS/__1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2375">
+          <caret line="125" column="0" selection-start-line="125" selection-start-column="0" selection-end-line="125" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS/__time_useage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/django/db/models/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9451">
+          <caret line="384" column="6" selection-start-line="384" selection-start-column="6" selection-end-line="384" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/django/dispatch/dispatcher.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="153" column="52" selection-start-line="153" selection-start-column="52" selection-end-line="153" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django_Doc/__django_signal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2016.2/system/python_stubs/-1247972723/__builtin__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="549">
+          <caret line="721" column="75" selection-start-line="721" selection-start-column="41" selection-end-line="721" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS/__test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Standard_Library/__os_usage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS/_2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10754">
+          <caret line="566" column="16" selection-start-line="566" selection-start-column="16" selection-end-line="566" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tasks.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
+    <entry file="file://$PROJECT_DIR$/Python_Doc/__new__method.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        <state relative-caret-position="19">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CorePythonProgram/MyHTTPd.py">
+    <entry file="file://$PROJECT_DIR$/Python_Standard_Library/ospath_split.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+        <state relative-caret-position="444">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CorePythonProgram/URLopen_auth.py">
+    <entry file="file://$PROJECT_DIR$/Python_Standard_Library/ospath_join.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+        <state relative-caret-position="444">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2016.2/system/python_stubs/-1247971764/builtins.py">
+    <entry file="file://$PROJECT_DIR$/Python_Standard_Library/ospath_abspath.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="509" column="4" selection-start-line="509" selection-start-column="4" selection-end-line="509" selection-end-column="4" />
+        <state relative-caret-position="152">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python_Basic/Class_Attribute.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="860">
-          <caret line="243" column="0" selection-start-line="243" selection-start-column="0" selection-end-line="243" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python_Basic/Property_Deco.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="150" column="0" selection-start-line="150" selection-start-column="0" selection-end-line="150" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python_Basic/Generator_Doc.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="125" column="11" selection-start-line="125" selection-start-column="11" selection-end-line="125" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python_Basic/Simple_Compiler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pygments/Starting.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Cookbook/Headq_EX.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="66" column="0" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Cookbook/Multidict_EX.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3116">
-          <caret line="164" column="0" selection-start-line="164" selection-start-column="0" selection-end-line="164" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Cookbook/Delete_Repeat.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Cookbook/Slice_EX.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="580">
-          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Count_EX.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/liaoxuefeng/Class.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="33" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/liaoxuefeng/Class__Instance.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="62" column="52" selection-start-line="62" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/liaoxuefeng/Class _Restrict.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1311">
-          <caret line="69" column="35" selection-start-line="69" selection-start-column="35" selection-end-line="69" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/liaoxuefeng/Inheritence_EX.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="618">
-          <caret line="67" column="0" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/liaoxuefeng/Obj_Information.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="428">
-          <caret line="87" column="0" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Cookbook/Ordering_dict_list.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python_Basic/new__init__Python.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python_Basic/Singleton.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="580">
-          <caret line="57" column="38" selection-start-line="57" selection-start-column="38" selection-end-line="57" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Expert_Python_Programming/Generator_EX.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="49">
-          <caret line="10" column="62" selection-start-line="10" selection-start-column="62" selection-end-line="10" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python_Basic/Cls__and__Static.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python_Basic/Str_and_repr.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python_Basic/yield__Ex.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1235">
-          <caret line="65" column="0" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/liaoxuefeng/Tower of Hanoi.py">
+    <entry file="file://$PROJECT_DIR$/Python_Standard_Library/glob_maketestdate.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python_Basic/Dcorator__EX.py">
+    <entry file="file://$PROJECT_DIR$/Python_Standard_Library/dir/file.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4446">
-          <caret line="234" column="5" selection-start-line="234" selection-start-column="5" selection-end-line="234" selection-end-column="5" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/liaoxuefeng/Function_Programming.py">
+    <entry file="file://$PROJECT_DIR$/Python_Standard_Library/dir/file1.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2394">
-          <caret line="126" column="0" selection-start-line="126" selection-start-column="0" selection-end-line="126" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/liaoxuefeng/Class__design.py">
+    <entry file="file://$PROJECT_DIR$/Python_Standard_Library/dir/file2.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2128">
-          <caret line="112" column="13" selection-start-line="112" selection-start-column="13" selection-end-line="112" selection-end-column="13" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JS/数据类型和变量" />
-    <entry file="file://$PROJECT_DIR$/JS/数据类型和变量.js">
+    <entry file="file://$PROJECT_DIR$/Python_Standard_Library/dir/filea.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="187" column="0" selection-start-line="187" selection-start-column="0" selection-end-line="187" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Standard_Library/dir/fileb.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Standard_Library/dir/sudir/subfile.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Standard_Library/__glob_asterisk.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Standard_Library/ospath_walk.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
           <folding>
-            <element signature="e#0#39#0" expanded="false" />
+            <element signature="e#1#10#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JS/JS__EX1.html">
+    <entry file="file://$PROJECT_DIR$/Python_Standard_Library/ospath_tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Standard_Library/ospath_properties.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="e#2#16#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Standard_Library/__subprocess_check_output_error.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Standard_Library/__subprocess_os_system.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
-          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Expert_Python_Programming/Decorator_EX.py">
+    <entry file="file://$PROJECT_DIR$/Python_Standard_Library/__subprocess_popen_read.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1078">
-          <caret line="64" column="20" selection-start-line="64" selection-start-column="20" selection-end-line="64" selection-end-column="20" />
+        <state relative-caret-position="266">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Expert_Python_Programming/itertools_EX.py">
+    <entry file="file://$PROJECT_DIR$/Python_Standard_Library/__subprocess_popen2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="470">
-          <caret line="26" column="46" selection-start-line="26" selection-start-column="46" selection-end-line="26" selection-end-column="46" />
+        <state relative-caret-position="171">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Expert_Python_Programming/Iterator_EX.py">
+    <entry file="file://$PROJECT_DIR$/Python_Standard_Library/__subprocess_popen3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="73">
-          <caret line="69" column="0" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Expert_Python_Programming/tokenize_EX.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="72" column="0" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Expert_Python_Programming/multitask.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8211">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1181521000000" expanded="true" signature="2560:2630" ph="..." />
-            <marker date="1181521000000" expanded="true" signature="2582:2630" ph="..." />
-            <marker date="1181521000000" expanded="true" signature="3809:4053" ph="..." />
-            <marker date="1181521000000" expanded="true" signature="4085:4222" ph="..." />
-            <marker date="1181521000000" expanded="true" signature="4112:4222" ph="..." />
-            <marker date="1181521000000" expanded="true" signature="4253:4302" ph="..." />
-            <marker date="1181521000000" expanded="true" signature="4334:4420" ph="..." />
-            <marker date="1181521000000" expanded="true" signature="4456:4508" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Expert_Python_Programming/Coroutine_EX.py">
+    <entry file="file://$PROJECT_DIR$/Python_Standard_Library/__subprocess_pipe.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#37#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="589">
+          <caret line="31" column="29" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
+          <folding />
         </state>
       </provider>
     </entry>

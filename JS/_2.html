@@ -1,0 +1,603 @@
+
+
+
+<script>
+
+
+
+
+
+function foo(x){
+    alert(x);
+    alert(arguments);
+    for (var i=0; i< arguments.length; i++){
+        alert(arguments[i]);
+    }
+}
+
+//alert(foo(10, 20, 30));
+
+function foo(a, b){
+    var i, rest = [];
+    if (arguments.length > 2){
+        for (i=2; i<arguments.length; i++) {
+            rest.push(arguments[i]);
+        }
+
+    }
+    console.log('a = ' + a);
+    console.log('b = ' + b);
+    console.log(rest);
+}
+
+//alert(foo(1, 2, 3, 4, 5));
+
+function foo(a, b, ...rest) {
+    console.log(a);
+    console.log(b);
+    console.log(rest);
+
+}
+alert(foo(1, 2, 3, 4, 5, 6));
+
+
+function foo(){
+    var x = 1;
+    x = x + 1;
+
+}
+
+
+function foo(){
+    var x = 1;
+    function bar(){
+        var x = 'A';
+        alert(x);
+    }
+    alert(x);
+    bar();
+}
+
+
+function foo(){
+    var y;
+    var x = 'hello' + y;
+    alert(x);
+    y = 'Bob';
+}
+
+
+function foo() {
+    var
+            x = 1;
+            y = x + 1;
+            z, i;
+    for (i=0; i<100; i++){
+        alert(x,y);
+    }
+
+}
+
+var course = 'learn js';
+alert(course);
+alert(window.course);
+
+
+var MYAPP = {};
+MYAPP.name = 'ap';
+MYAPP.version = 1.0;
+
+MYAPP.foo = function () {
+    return 'foo';
+
+}  ;
+
+
+function foo() {
+    var sum = 0;
+    for (let i=0; i<100; i++){
+        sum += i;
+    }
+    i += 1;
+}
+
+
+var xiaoming ={
+    name: 'xiaoming',
+    birth: 1990,
+    age: function () {
+        var y = new Date().getFullYear();
+        return y - this.birth;
+    }
+};
+
+function getAge() {
+    var y = new Date().getFullYear();
+    return y - this.birth;
+}
+
+var xiaoming={
+    name:'xiao',
+    bith:1990,
+    age: getAge
+};
+
+getAge.apply(xiaoming, []);
+
+
+
+
+function add(x, y, f) {
+    return f(x) + f(y);
+}
+
+
+
+
+
+var arr=[10, 20, 1, 2];
+    arr.sort(function (x, y) {
+        if (x<y){
+            return -1;
+        }
+        if (x>y){
+            return 1;
+        }
+        return 0;
+    });
+
+
+var arr=['Google','apple','Microsoft'];
+    arr.sort(function (s1, s2) {
+        x1 = s1.toUpperCase();
+        x2 = s2.toUpperCase();
+        if (x1 < x2){
+            return -1;
+        }
+        if (x1 > x2){
+            return 1;
+        }
+        return 0;
+    });
+
+
+
+    function sum(arr) {
+        return arr.reduce(function (x, y) {
+            return x + y;
+        });
+        return sum;
+    }
+
+
+var fn = x => x * x;
+
+
+
+
+x => {
+    if (x > 0){
+        return x * x;
+    }
+    else{
+        return - x * x;
+    }
+}
+
+var fn = (x, y) => x * x + y * y;
+var fn = () => 3.14
+
+var n = new Number(123);
+    var b  = new Boolean(true);
+    var s = new String('str');
+
+
+var Student = {
+    name: 'robot',
+    height: 1,2,
+    run: function () {
+        console.log(this.name + 'is running....')
+    }
+};
+
+function createStudent(name) {
+    var s = Object.create(Student);
+    s.name = name;
+    return s;
+}
+
+
+
+function Student(name) {
+    this.name = name;
+    this.hello = function () {
+        alert('hello', + this.name, + '!');
+    }
+}
+
+var xiaoming = new Student('xiaoming');
+    xiaoming.name;
+    xiaoming.hello();
+
+
+
+
+
+function Student(props) {
+    this.name = props.name || 'unamed';
+
+}
+Student.prototype.hello = function () {
+    alert('hello', + this.name + "!");
+}
+
+
+function PrimaryStudent(props) {
+    Student.call(this, props);
+    this.grade = props.grade || 1;
+}
+
+function F() {
+
+}
+F.prototype = Student.prototype;
+    PrimaryStudent.prototype = new F();
+    PrimaryStudent.prototype.constructor = PrimaryStudent;
+
+
+// 继承
+class Student {
+    constructor(name){
+        this.name = name;
+    }
+    hello(){
+        alert('hello,' + this.name);
+    }
+}
+
+class PrimaryStudent extends Student{
+    constructor(name, grade){
+        super(name);
+        this.grade = grade;
+    }
+    myGrade(){
+        alert('i am at grade' + this.grade);
+    }
+}
+
+
+<p id='p-id'>...</p>
+        var p = document.getElementById('p-id');
+    p.innerHTML = 'Abc';
+    p.innerHTML = 'Abc <span style="color:red">Red</span> xyz';
+
+var p = document.getElementsById('p-id');
+ //   <!--p.innerText('<script>alert("hi")')-->
+
+
+
+
+p.style.color = '#ff0000';
+p.style.fontSize = '20px';
+p.style.paddingTop = '2em';
+
+
+
+var
+    js = document.getElementById('js');
+    list = document.getElementById('list');
+list.appendChild(js);
+
+var
+    list = document.getElementById('list');
+    haskell = document.createElement('p');
+haskell.id = 'haskell';
+haskell.innerText = 'Haskell';
+list.appendChild(haskell);
+
+
+    var
+            list = document.getElementById('list'),
+    ref = document.getElementById('python'),
+    hahskell = document.createElement('p');
+
+    hahskell.id = 'hashkell';
+    hahskell.innerText = 'Haskell';
+    list.insertBefore(haskell, ref);
+
+
+var
+        i, c
+    list = document.getElementById('list');
+    for (i = 0;i < list.children.length; i++){
+        c = list.children[i];
+    }
+
+
+    //:::::::::::::::::::::::::::::::::::
+    var self = document.getElementsById('to-be-removed');
+    var parent = self.parentElement;
+    var removed = parent.removeChild(self):
+    removed === self;
+
+
+
+// <input type="text" id="email">
+var input = document.getElementById('email');
+    input.value;
+
+// <label><input type="radio" name="weekday" id="monday" value="1"> Monday</label>
+// <label><input type="radio" name="weekday" id="tuesday" value="2"> Tuesday</label>
+
+var mon = document.getElementsById('monday');
+    var tue = document.getElementById('tuesday');
+    mon.value;
+    tue.value;
+    mon.checked;
+    tue.checked;
+
+// <input type="text" id="email">
+
+    var input = document.getElementById('email');
+    input.value = 'test@example.com';
+
+
+
+// <input type="file">
+
+    var f = document.getElementById('test-file-upload');
+    var filename = f.value;
+    if (!filename || !(filename.endswith('.jpg')) ){
+        alert('no');
+        return false;
+    }
+
+// JQuery
+
+
+    // 查找 <div id='abc'>
+    var div = $('#abc');
+
+var div = $('#abc');
+    var divDom = div.get(0);
+    var another = $(divDom);
+
+var ps = $('p');
+    ps.length;
+
+
+var a = $('.red'); // 所有节点包含`class="red"`都将返回
+// 例如:
+// <div class="red">...</div>
+// <p class="green red">...</p>
+
+    var a = $('.red')
+
+
+
+var a = $('.red.green');
+
+var a = $('.red.green'); // 注意没有空格！
+// 符合条件的节点：
+// <div class="red green">...</div>
+// <div class="blue green red">...</div>
+
+
+    var email = $('[name=email]');
+    var passwordInput = $('[type=password]');
+    var a = $('[items="A B"]');
+
+    var icons = $('[name^=icon]');
+// 找出所有name属性值以icon开头的DOM
+// 例如: name="icon-1", name="icon-2"
+    var names = $('[name$=with]');
+// 找出所有name属性值以with结尾的DOM
+// 例如: name="startswith", name="endswith"
+
+var icons = $('[class^="icon-"]');
+
+组合查找
+
+    var emailInput = $('input[name=email]');
+// 不会找出<div name="email">
+    var tr = $('tr.red');
+// 找出<tr class="red ...">...</tr>
+
+
+$('p, div');// 把<p>和<div>都选出来
+    $('p.red, p.green');// 把<p class="red">和<p class="green">都选出来
+
+************************************************
+//层级选择器（Descendant Selector）
+
+如果两个DOM元素具有层级关系，就可以用$('ancestor descendant')来选择，
+层级之间用空格隔开。例如：
+
+<!-- HTML结构 -->
+<div class="testing">
+    <ul class="lang">
+        <li class="lang-javascript">JavaScript</li>
+        <li class="lang-python">Python</li>
+        <li class="lang-lua">Lua</li>
+    </ul>
+</div>
+                var b = $('ul.lang li.lang-javascript');
+                        $('div.testing li.lang-javascript');
+    $('ul.lang li');
+
+$('form[name=upload] input');
+    $('form.test p input');
+
+
+    $('ul.lang>li.lang-javascript');// 可以选出[<li class="lang-javascript">JavaScript</li>]
+    $('div.testing>li.lang-javascript');// [], 无法选出，因为<div>和<li>不构成父子关系
+
+$('ul.lang li');
+    $('ul.lang li:first-child');
+    $('ul.lang li:last-child');
+    $('ul.lang li:ntn-child(2)');
+    $('ul.lang li:nth-child(even)');
+    $('ul.lang li:nth-child(odd)');
+
+$('div:visible');
+    $('div:hidden');
+
+
+<!-- HTML结构 -->
+<ul class="lang">
+    <li class="js dy">JavaScript</li>
+    <li class="dy">Python</li>
+    <li id="swift">Swift</li>
+    <li class="dy">Scheme</li>
+    <li name="haskell">Haskell</li>
+</ul>
+
+
+var ul = $('ul.lang');
+    var dy = ul.find('.dy');
+    var swf = ul.find('#swift');
+    var hsk = ul.find('[name=hashkell]');
+
+var swf = $('#swift');
+    var parent = swf.parent();
+    var a = swf.parent('div.red');
+
+    var swift = $('#swift');
+    swift.next();
+    swift.next('[name=haskell]');
+
+    swift.prev();
+    swift.prev('.jd');
+
+
+
+var langs = $('ul.lang li');
+    var a = langs.filter('.dy');
+
+    var langs = $('ul.lang li');
+    langs.filter(function () {
+        return this.innerHTML.indexOf('s') === 0;
+    });
+
+// map()方法把一个jQuery对象包含的若干DOM节点转化为其他对象：
+    var langs = $('ul.lang li'); // 拿到JavaScript, Python, Swift, Scheme和Haskell
+    var arr = langs.map(function () {
+        return this.innerHTML;
+    }).get();
+// 用get()拿到包含string的Array：['JavaScript', 'Python', 'Swift', 'Scheme', 'Haskell']
+
+var langs = $('ul.lang li');
+    var js = langs.first();
+    var haskell = langs.last();
+    var sub = langs.slice(2, 4);
+
+
+<!-- HTML结构 -->
+<ul id="test-ul">
+    <li class="js">JavaScript</li>
+    <li name="book">Java &amp; JavaScript</li>
+</ul>
+
+     $('#test-ul li[name=book]').text();
+    $('#test-ul li[name=book]').html();
+
+
+var div = $('#test-div');
+div.css('color'); // '#000033', 获取CSS属性
+div.css('color', '#336699'); // 设置CSS属性
+div.css('color', ''); // 清除CSS属性
+
+
+var div = $('#test-div');
+    div.hasClass('highlight');
+    div.addClass('highlight');
+    div.removeClass('highlight');
+
+
+
+
+
+
+
+
+
+var jqxhr = $.ajax('/api/categories',{
+    dataType:'json'
+    
+}).done(function (data) {
+    ajaxLog('success' + JSON.stringify(data);)
+}).fail(function (xhr, status) {
+    ajaxLog('fail:', + xhr.status+',reason'+ status);
+}).always(function () {
+    ajaxLog('done.')
+})
+
+    var jqxhr = $.get('/path/to/response',{
+        name: 'Bob Lee',
+        check: 1
+    });
+
+
+    
+    var jqxhr = $.post('/path/to/resource',{
+        name: 'Bob Lee',
+        check: 1
+    }).done(function (data) {
+
+    })
+    
+    
+
+
+    $.fn.highlight1 = function () {
+        this.css('backgroudColor','#fffceb').css('color','#d85030');
+        return this;
+    }
+
+    $.fn.hightlight2 = function (options) {
+        var bgcolor = options && options.backgroudColor || '#fffceb';
+        var color = options && options.color || '#d85030';
+        this.css('backgroundColor', bgcolor).css('color', color);
+        return this;
+    }
+
+$.fn.highlight = function (options) {
+    var opts = $.extend({}, $.fn.highlight.default, options);
+    this.css('backgroundColor', opts.backgroundColor).css('color', opts.color);
+    return this;
+}
+
+
+
+
+
+
+
+
+
+
+
+</script>
+
+<p id="js">JavaScript</p>
+<div id="list">
+    <p id="java">Java</p>
+    <p id="python">Python</p>
+    <p id="scheme">Scheme</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
